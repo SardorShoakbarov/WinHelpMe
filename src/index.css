@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.SocialIcons{
+    display: flex;
+margin-top: 20px;
+
+}
+.SocialIcons a{
+    color: green;
+    margin-right: 10px;
+}
+
